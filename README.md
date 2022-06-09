@@ -107,11 +107,12 @@ endmodule
 ![output](piso_rtl.png)
 ### Parallel Input Parallel Output (PIPO):
 ![output](pipo_rtl.png)
-### TIMING DIGRAMS FOR SHIFT REGISTERS
+### TIMING DIGRAMS FOR SHIFT REGISTERS:
+### Serial Input Parallel Output (SIPO):
 ![output](sipo_tt.png)
 ### Parallel Input Serial Output (PISO):
 ![output](piso_tt.png)
 ### Parallel Input Parallel Output (PIPO):
 ![output](pipo_tt.png)
 ### RESULTS :
-Thus, PISO , PIPO, SIPO are implemented using verilog and their functionality using their functional tables is validated.
+Thus, PISO , PIPO, SIPO are implemented using verilog and their functionality using their functional tables is validated
